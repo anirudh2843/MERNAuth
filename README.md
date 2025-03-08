@@ -20,8 +20,3 @@ A full-stack authentication system built using the **MERN stack** (MongoDB, Expr
 - **Authentication:** JWT, bcrypt  
 
 ## 🛠 Installation & Setup
-
-### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/yourusername/authflow.git
-cd authflow
