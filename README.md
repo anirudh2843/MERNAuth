@@ -19,4 +19,3 @@ A full-stack authentication system built using the **MERN stack** (MongoDB, Expr
 - **Database:** MongoDB  
 - **Authentication:** JWT, bcrypt  
 
-## 🛠 Installation & Setup
